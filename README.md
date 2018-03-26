@@ -5,13 +5,13 @@ This is a tampermonkey tamper monkey script that allows you to download all file
 
 1. Download And Install TamperMonkey Chrome Extension https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
 
-2. Copy the 
+2.Copy the source myspace_bulk_image_downloader.js and paste it into tampermonkey when you create a new script
+
+Heres a video on how to do that: https://www.youtube.com/watch?v=RpjvLpyiras
 
 # How To Use:
 
-1. Copy the source myspace_bulk_image_downloader.js and paste it into tampermonkey when you create a new script
-
-Heres a video on how to do that: https://www.youtube.com/watch?v=RpjvLpyiras
+1. Make sure the script is enabled and tampermonkey is running in your browser.
 
 2. Then login to myspace and go to your "Mixes" tab on the toolbar on the left of your screen.
 
