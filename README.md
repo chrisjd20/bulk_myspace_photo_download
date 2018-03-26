@@ -29,6 +29,6 @@ This will save all your pictures to disk under a folder based upon what name you
 
 Voila, Done!
 
-![alt text](https://raw.githubusercontent.com/chrisjd20/bulk_myspace_photo_download/howto1.PNG)
+![alt text](https://raw.githubusercontent.com/chrisjd20/bulk_myspace_photo_download/master/howto1.PNG)
 
-![alt text](https://raw.githubusercontent.com/chrisjd20/bulk_myspace_photo_download/howto1.PNG)
+![alt text](https://raw.githubusercontent.com/chrisjd20/bulk_myspace_photo_download/master/howto1.PNG)
