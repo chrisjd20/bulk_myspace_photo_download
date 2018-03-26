@@ -45,7 +45,7 @@
                 var image_src_array = [];
                 $.each($('img[itemprop="image"]'), function( index, value ) {
                     //We want to iterate over the image sources and change them to their full resolution
-                    var image_full = value.currentSrc.replace(/\d\d\d?x\d\d\d?\.jpg/g, 'full.jpg');
+                    var image_full = value.currentSrc.replace(/\d\d\d?\d?x\d\d\d?\d?\.jpg/g, 'full.jpg');
                     image_src_array.push(image_full);
                     image_src_array = removeDuplicates(image_src_array);
                     if (index + 1 === $('img[itemprop="image"]').length) {
