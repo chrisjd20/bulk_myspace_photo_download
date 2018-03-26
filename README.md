@@ -31,4 +31,4 @@ Voila, Done!
 
 ![alt text](https://raw.githubusercontent.com/chrisjd20/bulk_myspace_photo_download/master/howto1.PNG)
 
-![alt text](https://raw.githubusercontent.com/chrisjd20/bulk_myspace_photo_download/master/howto1.PNG)
+![alt text](https://raw.githubusercontent.com/chrisjd20/bulk_myspace_photo_download/master/howto2.PNG)
